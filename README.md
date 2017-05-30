@@ -20,18 +20,21 @@ Adaptability is - in my opinion - my key transferrable skill. As a Support Analy
 
 I consider my adaptability to be a valuable skill because it allows me to quickly pick up new concepts. I can quickly get up to speed and integrate myself into teams effortlessly.
 
-#### Another Skill
+#### Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Years of working in IT support have allowed me to develop a finely-tuned instinct for analysis. I can take vague descriptions of problems or projects and turn them into creative solutions or implementations.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My eye for analysis was of great use to me during my time as an IT Support Analyst at the Battersea Dogs & Cats Home, where I identified bottlenecks in the IT department's service delivery and created automated solutions to eliminate them.
+
+#### Additional Skills
+- Understanding of a large range of technologies, relating to IT support and systems administration
+- Proficent in repairing and refurbishing computers
+- Expert knowledge of Microsoft Windows operating systems from Windows XP onwards
+- Proficent in Debian-based Linux distributions
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2017 to August 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -40,17 +43,46 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### North Hertfordshire College (September 2010 to April 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Advanced Apprenticeship for IT & Telecoms Professionals
 
-#### Any other qualifications
+#### St Joan of Arc R.C School (September 2003 - July 2008)
+
+- 11 GCSEs grades A*-B
+
+| Subject | Grade | Subject | Grade
+| :--- | :--- | :--- | :--- |
+| English Language | A* | Mathematics | A |
+| English Literature | A* | Statistics | A |
+| Drama | A* | Science | A/A |
+| ICT | A | Religious Studies | A |
+| History | A | Music | B |
+
+#### Other qualifications
+
+- Microsoft Certified Solutions Associate: Windows 7
+- CompTIA A+ CE
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Battersea Dogs & Cats Home** (September 2016 to April 2017)    
+*IT Support Assistant (Contract)*
+
+**London Irish Centre** (April 2016 to August 2016)   
+*IT Professional (Voluntary)*
+
+**Voluntary Action Harrow** (January 2016 to April 2016)   
+*Admin and Engagement Volunteer (Voluntary)*
+
+**Hermes IT SP Z.O.O** (October 2015 to August 2016)   
+*IT Support Analyst & Systems Administrator (Contract)*
+
+**Modebest Builders Limited** (January 2014 to December 2014)   
+*IT Analyst & Document Controller*
+
+**FDL Rail Limited** (December 2009 to October 2012)   
+*IT & Safety Critical Administrator*
+
+**PHS Maxitech Limited** (June 2009 to August 2009)   
+*IT Hardware Apprentice*
