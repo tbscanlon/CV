@@ -1,6 +1,7 @@
 # Thomas Scanlon
 
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
+[GitHub](https://www.github.com/tbscanlon) | [LinkedIn](https://www.linkedin.com/in/tbscanlon)
+
 Call me Tom, unless you're a member of my immediate family.
 
 ## About Me
@@ -11,6 +12,14 @@ I've transitioned into web development to re-introduce some challenge into my wo
 I'm looking for a Junior Developer role, and moving up from that into either full-stack web development or devops. Somewhere with people who work collaboratively to solve tricky challenges whilst having fun doing so would be an ideal fit for me.
 
 I'm a strong supporter of non-profits and I'd love to work either for one, or at a business with a strong appetite for social good.
+
+## Projects
+| Project | Description     |
+| :------------- | :------------- |
+| [Clickbait Generator API](https://github.com/tbscanlon/side-project-challenge) | An API for creating random listicle headlines |
+| [Chitter](https://github.com/tbscanlon/chitter-challenge) | A Twitter clone |
+| [Ping](https://github.com/tbscanlon/ping-js) | A clone of Pong, written in pure JavaScript |
+| [CYBER RPS](https://github.com/tbscanlon/rps-challenge) | A cyberpunk themed Rock Paper Scissors | 
 
 ## Skills
 
@@ -38,10 +47,12 @@ My eye for analysis was of great use to me during my time as an IT Support Analy
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Agile development and XP values
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript
+- HTML5, CSS3
+- Rspec, Jasmine
 
 #### North Hertfordshire College (September 2010 to April 2011)
 
@@ -50,14 +61,6 @@ My eye for analysis was of great use to me during my time as an IT Support Analy
 #### St Joan of Arc R.C School (September 2003 - July 2008)
 
 - 11 GCSEs grades A*-B
-
-| Subject | Grade | Subject | Grade
-| :--- | :--- | :--- | :--- |
-| English Language | A* | Mathematics | A |
-| English Literature | A* | Statistics | A |
-| Drama | A* | Science | A/A |
-| ICT | A | Religious Studies | A |
-| History | A | Music | B |
 
 #### Other qualifications
 
