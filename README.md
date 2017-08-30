@@ -9,17 +9,26 @@ In my previous life I was an IT Support Analyst and Systems Administrator. My wo
 
 I've transitioned into web development to re-introduce some challenge into my work. I've learnt that I'm at my best when coming up with creative solutions to problems. Frankly, there isn't much of a challenge in un-ticking the *Disable cached Exchange mode* box or resetting a roaming profile.
 
-I'm looking for a Junior Developer role, and moving up from that into either full-stack web development or devops. Somewhere with people who work collaboratively to solve tricky challenges whilst having fun doing so would be an ideal fit for me.
+I'm looking for a Junior Developer role, and moving up from that into either full-stack web development or DevOps. Somewhere with people who work collaboratively to solve tricky challenges whilst having fun doing so would be an ideal fit for me.
 
 I'm a strong supporter of non-profits and I'd love to work either for one, or at a business with a strong appetite for social good.
 
 ## Projects
+
+### Makers Academy Final Project
+| Project Component | Description |
+| :---------------  | :---------- |
+| [Perceptron](https://github.com/terminalobject/Perceptron) | A Ruby implementation of the perceptron machine learning algorithm |
+| [Percepticon](http://www.github.com/tbscanlon/percepticon) | An API using the Percepticon gem above to rank article headlines |
+| [Percepticon Frontend](http://www.github.com/tbscanlon/percepticon-frontend) | A single page app demonstrating the two components above |
+
+### Other Projects
 | Project | Description     |
 | :------------- | :------------- |
 | [Clickbait Generator API](https://github.com/tbscanlon/side-project-challenge) | An API for creating random listicle headlines |
 | [Chitter](https://github.com/tbscanlon/chitter-challenge) | A Twitter clone |
 | [Ping](https://github.com/tbscanlon/ping-js) | A clone of Pong, written in pure JavaScript |
-| [CYBER RPS](https://github.com/tbscanlon/rps-challenge) | A cyberpunk themed Rock Paper Scissors | 
+| [CYBER RPS](https://github.com/tbscanlon/rps-challenge) | A cyberpunk themed Rock Paper Scissors |
 
 ## Skills
 
@@ -48,7 +57,7 @@ My eye for analysis was of great use to me during my time as an IT Support Analy
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - Agile development and XP values
-- OOP, TDD, SOLID, MVC
+- OOP, TDD, MVC, Object Oriented Design
 - Software Craftsmanship
 - Ruby, Rails, Javascript
 - HTML5, CSS3
