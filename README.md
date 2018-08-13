@@ -7,9 +7,9 @@ Call me Tom, unless you're a member of my immediate family.
 ## About Me
 In my previous life I was an IT Support Analyst and Systems Administrator. My work primarily involved fixing computer problems for people so that they could do their jobs and looking after the IT systems that helped them do their jobs. My time doing contract IT roles has given me experience in a curious cross-section of industries, from non-profit organisations to construction firms.
 
-I've transitioned into web development to re-introduce some challenge into my work. I've learnt that I'm at my best when coming up with creative solutions to problems. Frankly, there isn't much of a challenge in un-ticking the *Disable cached Exchange mode* box or resetting a roaming profile.
+I transitioned into web development last year to re-introduce some challenge into my work. I learnt that I'm at my best when coming up with creative solutions to problems. Frankly, there wasn't much of a challenge in un-ticking the *Disable cached Exchange mode* box or resetting a roaming profile.
 
-Since graduating Makers Academy in August 2017, I have been working at Kingfisher Digital as a front-end developer building home improvement web apps. I'm seeking a new front-end development opportunity at a workplace that isn't quite so mired by office politics, so that I can focus more on growing as a developer.
+I graduated from Makers Academy in August 2017, and have since been working as a front-end developer for Kingfisher Digital, building e-commerce web apps in Angular & React. I'm seeking a new opportunity to grow as a developer; I would ideally like the opportunity to do more back-end work alongside my current front-end work.
 
 I'm a strong supporter of non-profits and I'd love to work either for one, or at a business with a strong appetite for social good.
 
@@ -56,9 +56,11 @@ I am always willing to learn whatever technologies or methodologies I need to ex
 
 Years of working in IT support have allowed me to develop a finely-tuned instinct for analysis. I can take vague descriptions of problems or projects and turn them into creative solutions or implementations.
 
-My eye for analysis was of great use to me during my time as an IT Support Analyst at the Battersea Dogs & Cats Home, where I identified bottlenecks in the IT department's service delivery and created automated solutions to eliminate them.
+My eye for analysis was of great use to me during my time as an IT Support Analyst at the Battersea Dogs & Cats Home, where I identified bottlenecks in the IT department's service delivery and created automated solutions to eliminate them. It has also been very useful in my current role as a front-end developer, where I have been able to fix multiple critical bugs relatively quickly.
 
 #### Additional Skills
+- Proficient in Ruby, Javascript, Typescript, HTML5 & CSS3
+- Proficient in modern front-end frameworks (Angular & React) and their ecosystems
 - Understanding of a large range of technologies, relating to IT support and systems administration
 - Proficent in repairing and refurbishing computers
 - Expert knowledge of Microsoft Windows operating systems from Windows XP onwards
@@ -69,6 +71,9 @@ My eye for analysis was of great use to me during my time as an IT Support Analy
 #### Enrol Yourself (April 2018 to Present)
 
 - Improving my skills as a developer through peer-led learning
+- Running workshops on technical topics, such as machine learning, number systems, and how to think like a developer
+- Creating multiple technical experiments to test a hypothesis around value creation
+- Coaching & mentoring other members of the peer learning group
 
 #### Makers Academy (May 2017 to August 2017)
 
@@ -95,6 +100,10 @@ My eye for analysis was of great use to me during my time as an IT Support Analy
 - CompTIA A+ CE
 
 ## Experience
+
+**The Brightside Trust** (March 2018 to May 2018) \
+*Mentor (Voluntary)*
+- Provided mentoring for a sixth form student in the topic of a career in IT
 
 **Kingfisher Digital** (October 2017 to Present)
 *Front-end Developer*
