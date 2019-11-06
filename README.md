@@ -7,13 +7,21 @@ Call me Tom, unless you're a member of my immediate family.
 ## About Me
 In my previous life I was an IT Support Analyst and Systems Administrator. My work primarily involved fixing computer problems for people so that they could do their jobs and looking after the IT systems that helped them do their jobs. My time doing contract IT roles has given me experience in a curious cross-section of industries, from non-profit organisations to construction firms.
 
-I transitioned into web development last year to re-introduce some challenge into my work. I learnt that I'm at my best when coming up with creative solutions to problems. Frankly, there wasn't much of a challenge in un-ticking the *Disable cached Exchange mode* box or resetting a roaming profile.
+I transitioned into web development to re-introduce some challenge into my work. I learnt that I'm at my best when coming up with creative solutions to problems. Frankly, there wasn't much of a challenge in un-ticking the *Disable cached Exchange mode* box or resetting a roaming profile.
 
-I graduated from Makers Academy in August 2017, and have since been working as a front-end developer for Kingfisher Digital, building e-commerce web apps in Angular & React. I'm seeking a new opportunity to grow as a developer; I would ideally like the opportunity to do more back-end work alongside my current front-end work.
+I graduated from Makers Academy in August 2017, and have since been working as a front-end developer building web apps in Angular & React. I'm seeking a new opportunity to grow as a developer; I would ideally like the opportunity to do more back-end & infrastructure work alongside my current front-end work.
 
 I'm a strong supporter of non-profits and I'd love to work either for one, or at a business with a strong appetite for social good.
 
 ## Projects
+
+### Work Projects
+| Project | Description     | My Contribution |
+| :------------- | :------------- |  :------------- |
+| [Engaging Works](https://engaging.works) | A web app to foster & improve workplace happiness | front-end dev & architecture |
+| [Engaging Business](https://engaging.works/business) | A web app for businesses to measure their employee happiness and engagement | front-end dev & architecture |
+| [B&Q](https://www.diy.com) | The web front-end for B&Q's e-commerce platform | front-end dev - product pages & checkout |
+| [Design my Space](https://designmyspace.co.uk) | A home improvement companion web app | front-end dev - user accounts & "inspiration" section |
 
 ### Untrnet
 | Project Component | Description |
@@ -101,11 +109,22 @@ My eye for analysis was of great use to me during my time as an IT Support Analy
 
 ## Experience
 
+**Engaging Tech** (October 2018 to present) \
+*Web Developer*
+- Liase extensively with non-technical stakeholders (project management, design) to successfully deliver features;
+- Lead development work on the company's internal design system;
+- Mentor and upskill other developers in front-end development practices;
+- Built data-driven web front-ends in Angular 7 & React;
+- Codified internal engineering practices, including unit testing, code review and git branching strategies;
+- Lead and participated in Agile ceremonies;
+- Perform maintenance & triage on all of the company's front-ends, including legacy code;
+- Extensively investigated and researched emerging technologies for use in existing & upcoming projects.
+
 **The Brightside Trust** (March 2018 to May 2018) \
 *Mentor (Voluntary)*
 - Provided mentoring for a sixth form student in the topic of a career in IT
 
-**Kingfisher Digital** (October 2017 to Present)
+**Kingfisher Digital** (October 2017 to October 2018) \
 *Front-end Developer*
 - Liaised extensively with designers and product owners to deliver features to specification;
 - Worked as part of a cross-functional agile team to build and deliver new features;
@@ -119,55 +138,21 @@ My eye for analysis was of great use to me during my time as an IT Support Analy
 
 **Battersea Dogs & Cats Home** (September 2016 to April 2017)    
 *IT Support Assistant (Contract)*
-- Provided 1st, 2nd and 3rd line support for a large variety of IT issues to approximately 450 staff across three sites;
-- Undertook project work to retain and improve critical business partnerships;
-- Developed, tested and maintained PowerShell & Python scripts to automate business processes;
-- Wrote extensive documentation for both end-users and other IT team members;
-- Assisted with maintenance and administration of the Home's highly virtualised server infrastructure;
-- Provided on-call and on-site support for the Home's events as required.
 
 **London Irish Centre** (April 2016 to August 2016)   
 *IT Professional (Voluntary)*
-- Provide consultation and assistance with the LIC’s IT strategy;
-- Train internal staff in the usage of Microsoft Office;
-- Provide 1st and 2nd line support and assistance to staff;
-- Liaise with external vendors and stakeholders regarding IT issues on the LIC’s behalf.
-
 
 **Voluntary Action Harrow** (January 2016 to April 2016)   
 *Admin and Engagement Volunteer (Voluntary)*
-- Provide IT support as required – mainly Google Apps and other cloud products;
-- Assist in social media strategy and content creation for the Co-operative’s social enterprise initiative;
-- Perform day-to-day administrative tasks including updating attendance lists and recording feedback.
 
 **Hermes IT SP Z.O.O** (October 2015 to August 2016)   
 *IT Support Analyst & Systems Administrator (Contract)*
-- Provided second line IT support to clients across multiple sites as needed;
-- Headed up projects to create IT infrastructure for clients;
-- Developed and implemented the support provision for both internal and external issues;
-- Developed, implemented and maintained internal IT infrastructure;
-- Implemented and maintained web and cloud solutions internally and for external clients;
-- Responsible for day-to-day management of company and client IT infrastructure;
-- Provided consultation for clients as needed.
 
 **Modebest Builders Limited** (January 2014 to December 2014)   
 *IT Analyst & Document Controller*
-- Administration and maintenance of the company's internal network (approximately 60 devices across 2 offices);
-- Providing support to approximately 100 users over the phone and via the company's helpdesk during business hours and on-call as required;
-- Management of the company's fleet of 110 mobile devices including smartphones, tablets and mobile hotspots;
-- Performed research, design, production and maintenance on various IT systems as required;
-- Budgeting and purchasing of hardware and software;
-- Performed other office duties as required.
 
 **FDL Rail Limited** (December 2009 to October 2012)   
 *IT & Safety Critical Administrator*
-- Provided 24/7 IT support to 20 users both in-office and remotely;
-- Responsible for purchasing, repairing and maintenance of hardware and software as required;
-- Responsible for design, production and maintenance of the company’s website and internal templates;
-- Day-to-day management of the internal network (approximately 10-20 devices).
 
 **PHS Maxitech Limited** (June 2009 to August 2009)   
 *IT Hardware Apprentice*
-- Building, refurbishing and repairing desktops, laptops and servers;
-- Comprehensive testing of computers, servers and peripherals;
-- Installing operating systems and software.
